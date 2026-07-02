@@ -1,0 +1,20 @@
+# Hotel INDIZIO
+
+Hotel INDIZIO ist eine interaktive Escape-Hotel-Plattform, die immersives Storytelling, digitale Buchung und spielbasierte Erlebnisse miteinander verbindet.
+
+## Projektziele
+
+- Moderne Webanwendung
+- Art-Déco-Design im Stil der 1920er Jahre
+- Buchungssystem für Escape Rooms
+- Verwaltung von Räumen, Gruppen und Terminen
+- Administrationsbereich
+- Responsive Design
+
+## Projektstruktur
+
+```text
+frontend/
+backend/
+assets/
+docs/
